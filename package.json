@@ -14,7 +14,7 @@
     "@types/probe-image-size": "^7.2.0",
     "astro": "^2.0.6",
     "astro-icon": "^0.8.0",
-    "astro-imagetools": "^0.6.15",
+    "astro-imagetools": "^0.7.6",
     "photoswipe": "^5.3.4",
     "postcss": "^7.0.39",
     "prettier": "^2.8.0",
